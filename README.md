@@ -40,3 +40,11 @@ IfraJamal.greet();
 
 // Display skills
 console.log("My Tech Stack:", Object.keys(IfraJamal.skills).join(" 🔥 "));
+
+## 🎨 **My Portfolio**
+
+<p align="center">
+  <a href="https://ifra01.github.io/personal-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&color=F5007A&labelColor=0d1117&fontSize=20" />
+  </a>
+</p>
