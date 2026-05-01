@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://ifra01.github.io/personal-portfolio/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=124559&center=true&vCenter=true&width=300&lines=🌐+Check+My+Portfolio+🌐;✨+See+My+Work+✨;💻+Latest+Projects+💻" />
   </a>
 </p>
