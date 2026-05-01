@@ -1,16 +1,20 @@
-## Hi there 👋
+## About me
 
-<!--
-**Ifra01/Ifra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const IfraJamal = {
+    name: "Ifra Jamal",
+    role: "Passionate Developer & Tech Enthusiast",
+    location: "🌍 Pakistan ",
+    skills: ["JavaScript", "HTML/CSS", "Tailwind/Bootstrap", "Typescript", "Git & GitHub"],
+    hobbies: ["Coding", "Reading", "Designing", "Learning new tech"],
+    motto: "Code. Create. Inspire.",
+    
+    greet() {
+        console.log(`Hi! I'm ${this.name} – let's build something amazing! 🚀`);
+    }
+};
 
-Here are some ideas to get you started:
+IfraJamal.greet();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hey+there!+🌸;I'm+Ifra+Jamal;Developer+%7C+Creator+%7C+Problem+Solver;Welcome+to+my+world+of+code!✨" alt="Typing SVG" />
+</p>
